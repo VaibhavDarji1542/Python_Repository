@@ -1,2 +1,2 @@
-ignore.txt
-thisfolder/
+RegularEnv/defaultvenv/
+Tensorflow_Env/tensorenv/
